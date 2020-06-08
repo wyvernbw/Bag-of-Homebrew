@@ -1,7 +1,7 @@
 # Bag-of-Homebrew
-an all editions dnd homebrew content repository!
+a repository of D&D homebrew content for (almost) all editions!
 
-# Quickstart
+## Quickstart
 Just fork this repository, add your stuff and create a pull request. You can do all this without using git.
 Here is a guide to forking and making pull requests to help you out: https://guides.github.com/activities/forking/
 
