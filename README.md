@@ -1,6 +1,10 @@
 # Bag-of-Homebrew
 an all editions dnd homebrew content repository!
 
+# Quickstart
+Just fork this repository, add your stuff and create a pull request. You can do all this without using git.
+Here is a guide to forking and making pull requests to help you out: https://guides.github.com/activities/forking/
+
 ## How to contribute 
 First, make a folder with your name in a folder of your choice (for example 'spells/wYvernBW'). After you did that make sure your content follows the guidlines below and place your stuff in your folder, and create a pull request. 
 
