@@ -12,7 +12,6 @@ First, make a folder with your name in a folder of your choice (for example 'spe
 Before uploading your homebrew masterpiece make sure it follows these rules:
 1. no nsfw content is allowed.
 2. all homebrew content must be original!
-3. homebrew content must be styled with [The Homebrewery](https://homebrewery.naturalcrit.com/).
-4. use the a4 page size option in the homebrewery.
-5. No self-promotion 
-6. content made to shame or insult others is not allowed.
+3. Files must be a correctly formated .md file that github can render properly. (guide for writing markdown files : https://guides.github.com/features/mastering-markdown/)
+4. No self-promotion 
+5. content made to shame or insult others is not allowed.
