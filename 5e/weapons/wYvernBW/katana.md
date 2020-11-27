@@ -1,7 +1,7 @@
 ### Katana 
-melee weapom (martial, sword)  
+melee weapon (martial, sword)  
 **Category:** Items   
-**Damage**: 1d8 
+**Damage**: 1d8  
 **Damage Type:** Slashing  
 **Item Rarity:** Standard  
 **Properties:** Finesse, Versatile (1d10)  
