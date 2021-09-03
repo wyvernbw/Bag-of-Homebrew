@@ -1,3 +1,3 @@
 # Beat Up
 
-When a creature makes an attack that deals bludgeoning damage that's greater than your number of hit dice faces (eg. 8 for a d8 at level 1, 16 for 2d8 at level 2), your move speed decreases by 5 feet. Healing, rests and being knocked unconscious removes this effect. 
+When you make an attack that deals bludgeoning damage against a creature, the creature becomes limp. The creature has decreased move speed equal to your strength modifier or twice your strength modifier if the attack is made with a two-handed weapon. This effect ends after 3 rounds, but can also be ended by healing and rests.
